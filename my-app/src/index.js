@@ -56,19 +56,19 @@ class Footer extends React.Component {
         <div id='footer-background'>
           <Grid centered columns={4}>
             <Grid.Row>
-              <Item as='a'>
+              <Item as='a' href='#Link'>
                 <Icon bordered inverted size='big' name='youtube'/>
               </Item>
-              <Item as='a'>
+              <Item as='a' href='#Link'>
                 <Icon bordered inverted size='big' name='twitter'/>
               </Item>
-              <Item as='a'>
+              <Item as='a' href='#Link'>
                 <Icon bordered inverted size='big' name='instagram'/>
               </Item>
-              <Item as='a'>
+              <Item as='a' href='#Link'>
                 <Icon bordered inverted size='big' name='facebook'/>
               </Item>
-              <Item as='a'>
+              <Item as='a' href='#Link'>
                 <Icon bordered inverted size='big' name='twitch'/>
               </Item>
             </Grid.Row>
