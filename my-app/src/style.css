@@ -1,0 +1,74 @@
+html body {
+  background-color: #000;
+}
+
+.ui.borderless.inverted.menu {
+  background-color: #000;
+  padding: 10px 55px 10px 55px;
+  height: 100px;
+  border-radius: 0px;
+}
+
+.ui.container {
+  padding: 0px 75px;
+}
+
+.ui.inverted.borderless .item {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  letter-spacing: .15em;
+}
+
+.ui.fluid.container {
+  background-image: url("https://static1.squarespace.com/static/5ae0f2cbe2ccd119c3eccd8e/5ae7a193f950b727213de4c0/5b088c5488251baf5613bc39/1538175215993/Website+Slide2.png?format=1500w");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 98%;
+  height: 450px;
+}
+
+#tab {
+  background-color: transparent;
+  box-shadow: none;
+  border-style: none;
+  width: 90%;
+}
+
+#tab .item {
+  background-color: white;
+  border-radius: 0px;
+  height: 10px;
+  width: 60px;
+}
+
+#footer-background {
+  background-color: #000;
+  color: white;
+  padding-bottom: 100px;
+}
+
+#footer-text .item {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#footer-text2 .item {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+}
+
+#footer-text3 .item{
+  color: gray;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+}
+
+#squarespace {
+  text-decoration: underline;
+  color: gray;
+}
